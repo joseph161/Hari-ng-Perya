@@ -10,6 +10,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+	//this comment is used to test if the github syncs this file
 	
 	}
 }
